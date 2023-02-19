@@ -1,0 +1,13 @@
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\bin\Debug\RestourantDemo.exe.config
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\bin\Debug\RestourantDemo.exe
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\bin\Debug\RestourantDemo.pdb
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.frmLogin.resources
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.Properties.Resources.resources
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.csproj.GenerateResource.cache
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.exe
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.pdb
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.frmMenu.resources
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.frmTables.resources
+C:\Users\Busra\source\repos\RestourantDemo\RestourantDemo\obj\Debug\RestourantDemo.frmOrder.resources
